@@ -1,0 +1,18 @@
+{
+  "name": "FillAct",
+  "version": "1.0.0",
+  "description": "Fast Activity Filler",
+  "main": "fillact.js",
+  "scripts": {
+    "start": "node fillact.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dom-storage": "^2.0.1",
+    "googleapis": "^1.1.1",
+    "jsforce": "^1.3.1",
+    "node-localstorage": "^0.3.6",
+    "prompt": "^0.2.14"
+  }
+}
